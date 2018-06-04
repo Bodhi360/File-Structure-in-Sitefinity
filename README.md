@@ -1,4 +1,4 @@
-Here we are going to discuss the file structure of Sitefinity and also some basic tips to keep in mind.
+Here we are going to discuss the file structure of Sitefinity and also some basic tips to keep in mind.<br>
 	We create the template without Thunder to create the file structure must match:
 In App_Data there is folder name Sitefinity > in Sitefinity folder create WebsiteTemplates > Project name > under project name create two folders App_Master and App_Themes > in App_Themes again create project name > this folder contains assets like images, JavaScript, custom CSS, etc.
 
