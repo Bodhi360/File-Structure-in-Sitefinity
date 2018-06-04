@@ -14,4 +14,6 @@ In App_Data there is folder name Sitefinity > in Sitefinity folder create Websit
 	We are trying to create the multiple page so we can change any time without touching another page.<br>
 	We try to put most of the code in modules, so that we do not need Visual Studio for editing in future.<br>
 	Sometimes, jQuery files give problem because Sitefinity already has jQuery files so, we put jQuery file in metadata file.<br>
+
+
 <img src="https://github.com/Bodhi360/File-Structure-in-Sitefinity/blob/master/%20File%20Structure.png">
