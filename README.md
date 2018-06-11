@@ -17,4 +17,4 @@ Sometimes, jQuery files give problem because Sitefinity already has jQuery files
 
 
 <img src="https://github.com/Bodhi360/File-Structure-in-Sitefinity/blob/master/%20File%20Structure.png">
-<a href="http://www.bodhi360.cloud/">Bodhi360</a> Atul Kumarr
+<a href="http://www.bodhi360.cloud/">Bodhi360</a> Atul Kumar
