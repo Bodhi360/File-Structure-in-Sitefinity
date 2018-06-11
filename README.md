@@ -1,13 +1,13 @@
 Here we are going to discuss the file structure of Sitefinity and also some basic tips to keep in mind.<br>
 We create the template without Thunder to create the file structure must match:
-In App_Data there is folder name Sitefinity > in Sitefinity folder create WebsiteTemplates > Project name > under project name create two folders App_Master and App_Themes > in App_Themes again create project name > this folder contains assets like images, JavaScript, custom CSS, etc.
+In App_Data there is folder name Sitefinity > in Sitefinity folder create<b> WebsiteTemplates > Project name > under project name create two folders App_Master and App_Themes > in App_Themes again create project name ></b> this folder contains assets like images, JavaScript, custom CSS, etc.
 
 <b>App_Master</b> contains the html file with .master extension.<br>
-App_Themes contains the assets of the project.<br>
+<b>App_Themes</b> contains the assets of the project.<br>
 Global folder contains CSS and link the file by default to the project.<br>
  
 We don’t use the form tag multiple time in .master page, because it hides the publish button on the page.<br>
-We use meta data page in App_Master to clean the head tag of master and sometimes head tag does not load the JavaScript file.<br>
+We use meta data page in,<b> App_Master</b> to clean the head tag of master and sometimes head tag does not load the JavaScript file.<br>
 In Sitefinity webform technology, use the hybrid template default, but MVC development does not support the webform technology in the project.<br>
 Thunder tool help to create web templates, forms designs, etc. It reduces the writing of code.<br>
 Try to run the debugger - without debugging, it takes less time to compile the code.<br>
