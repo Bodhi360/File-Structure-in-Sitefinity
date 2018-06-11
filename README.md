@@ -2,7 +2,7 @@ Here we are going to discuss the file structure of Sitefinity and also some basi
 We create the template without Thunder to create the file structure must match:
 In App_Data there is folder name Sitefinity > in Sitefinity folder create WebsiteTemplates > Project name > under project name create two folders App_Master and App_Themes > in App_Themes again create project name > this folder contains assets like images, JavaScript, custom CSS, etc.
 
-App_Master contains the html file with .master extension.<br>
+<b>App_Master</b> contains the html file with .master extension.<br>
 App_Themes contains the assets of the project.<br>
 Global folder contains CSS and link the file by default to the project.<br>
  
